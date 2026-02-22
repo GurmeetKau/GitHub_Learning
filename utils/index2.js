@@ -1,4 +1,4 @@
-const name = 'priyanka';
+const name = 'Mahima';
 const age = 32;
 const loc = 'Delhi';
     if(age>=18){
