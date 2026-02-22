@@ -5,6 +5,6 @@ function sayName(){
     console.log("Gurmeet Kaur");
 }
 function sayLoc(){
-    console.log('my location is ${Delhi}');
+    console.log('my location is ${Dehradun}');
 }
  
