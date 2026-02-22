@@ -7,4 +7,12 @@ function sayName(){
 function sayLoc(){
     console.log('my location is ${Dehradun}');
 }
+function newFeat(){
+    console.log("adding A NEW FEATURE A");
+}
+function newFeat(){
+    console.log("adding A NEW FEATURE B");
+}
+
+
  
