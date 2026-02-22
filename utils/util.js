@@ -13,6 +13,9 @@ function newFeat(){
 function newFeat(){
     console.log("adding A NEW FEATURE B");
 }
+function newFeat(){
+    console.log("adding A NEW FEATURE C");
+}
 
 
  
